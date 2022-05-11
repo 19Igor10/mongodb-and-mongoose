@@ -1,5 +1,6 @@
 {
     "name": "fcc-mongo-mongoose-challenges",
+    "author": "IgorP",
     "version": "0.0.1",
     "description": "A boilerplate project",
     "main": "server.js",
